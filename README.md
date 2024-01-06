@@ -47,6 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
 
-<div align=center style="margin-top=10px">
+<div align=center style="padding-top=10px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
 </div>
