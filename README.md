@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
-
+<br>
 <div align=center>
   <img src="https://github.com/SuMmmn/SuMmmn/blob/webworkspace/img/ec6abfc45443d1ec39e23fa39af4d262.gif"/>
 </div>
