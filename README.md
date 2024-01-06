@@ -46,7 +46,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jino030&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
-</a>
