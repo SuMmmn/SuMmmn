@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-  <img src="https://github.com/SuMmmn/SuMmmn/blob/webworkspace/img/ec6abfc45443d1ec39e23fa39af4d262.gif" width="100%"/>
+  <img src="https://github.com/SuMmmn/SuMmmn/blob/webworkspace/img/885c654cf2b22ec0a107ad694334c5d1.gif" width="100%"/>
 </div>
