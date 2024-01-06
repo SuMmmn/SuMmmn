@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuMmmn%2Fhit-counter&count_bg=%238FC6F1&title_bg=%235185A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuMmmn&theme=tokyonight&show_icons=true" width="50%" />
+</div>
+
 <div align=center>
 
   ## 🔥Skills🔥
@@ -46,9 +52,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</div>
-<hr>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SuMmmn&theme=tokyonight&show_icons=true" width="50%" />
 </div>
