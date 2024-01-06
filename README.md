@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="![d97909ac3ab72d8bb2cb7cf4546dfc0d](https://github.com/SuMmmn/SuMmmn/assets/141694869/9f5db97a-2dab-4f9f-9999-570f9d1ef202)"/>
+### 🔥Skills
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **SuMmmn/SuMmmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
