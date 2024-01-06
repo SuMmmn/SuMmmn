@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=50)
-<div style="margin:auto 0;">
+<div align=center>
 ### 🔥Skills🔥
 <img src="https://img.shields.io/badge/html-red?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
