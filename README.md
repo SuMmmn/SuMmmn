@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuMmmn%2Fhit-counter&count_bg=%238FC6F1&title_bg=%235185A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github.com/SuMmmn/SuMmmn/assets/97097194/24e8cd27-65aa-4ba5-9798-a0bd625b900c"/>
+<img src="https://github.com/SuMmmn/SuMmmn/blob/webworkspace/img/4207799ff9fbd41ba12dd5c728df7439.jpg"/>
 
 <div style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="49%" />
