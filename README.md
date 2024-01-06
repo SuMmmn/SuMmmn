@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-  ### 🔥Skills🔥
+  # 🔥Skills🔥
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7D358?style=for-the-badge&logo=javascript&logoColor=white"/>
