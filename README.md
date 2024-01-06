@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=50)
 <div align=center>
   
-  ## 📊Github Stats📊
+  ## 🐾Stats🐾
   <div style="display:flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api?username=SuMmmn&theme=tokyonight&show_icons=true" width="49%" />
