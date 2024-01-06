@@ -48,8 +48,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?  username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="50%" />
 </div>
