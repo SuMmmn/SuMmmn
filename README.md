@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=40)
-### 🔥Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
 <!--
 **SuMmmn/SuMmmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=50)
+### 🔥Skills
+<img src="https://img.shields.io/badge/html-red?style=flat-square&logo=HTML5&logoColor=white"/>
