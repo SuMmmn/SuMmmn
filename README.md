@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&animation=fadeIn&section=header&text=Sumin%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&animation=blink&section=header&text=Sumin's%20GitHub&fontSize=40)
 ### 🔥Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
