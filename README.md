@@ -50,14 +50,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  
-  ## 🐾Stats🐾
-  <div style="display:flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuMmmn&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SuMmmn&theme=tokyonight&show_icons=true" width="49%" />
-  </div>
-</div>
-
 <br>
 <div align=center>
   <img src="https://github.com/SuMmmn/SuMmmn/blob/webworkspace/img/885c654cf2b22ec0a107ad694334c5d1.gif"/>
