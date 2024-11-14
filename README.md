@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&animation=twinkling&section=header&text=Sumin's%20GitHub&fontSize=50)
 
-<div align=venter>
+<div align=center>
   <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/SuMmmn"
